@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 GitHub is where people build software. 
 More than 11 million people use GitHub 
 to discover, fork, and contribute to over 
@@ -21,3 +22,8 @@ This is the best me.
 我给他讲述所有发生在学校的事情,
 我想让他知道我的一切。
 这是最好的我。
+=======
+ahsduiudhakjd
+Hello
+good
+>>>>>>> parent of 672de87... GitHub
